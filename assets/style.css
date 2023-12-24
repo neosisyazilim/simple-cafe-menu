@@ -1,0 +1,751 @@
+body {
+    color: #777;
+    background-color: #fbfbfb;
+    margin: 0;
+}
+
+.design-container {
+    /* width: 400px; */
+    /* height: 400px; */
+}
+
+.config {
+    display: none;
+}
+
+.page {
+    margin: 0 auto 20px auto;
+}
+
+p {
+    margin: 0;
+}
+
+.menu-object .items {
+    padding: 1em;
+}
+
+#wrapper {
+    position: relative;
+    width: 80vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+#content {
+    position: relative;
+    /*width: 100%;
+          height: 100px;*/
+    transform-origin: top;
+}
+
+.hyperlink a {
+    text-decoration: none;
+    color: unset;
+    display: contents;
+}
+
+@media (max-width: 425px) {
+
+    .mo-name,
+    .item .name,
+    .item .price {
+        letter-spacing: -1px !important;
+    }
+}
+
+.watermark {
+    position: absolute;
+    left: 8%;
+    bottom: 5%;
+    z-index: 1;
+    width: 35%;
+    height: 10%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url('https://www.musthavemenus.com/imageservice/images/img/13/timber/watermark-logo.png');
+    opacity: .25;
+}
+
+
+/* style */
+#drxoMsmZZERX .item {
+    margin-bottom: 1.7em;
+    line-height: 1.2em;
+    width: calc(50% - 1.5em);
+}
+
+#drxoMsmZZERX .name {
+    font-size: 160%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    letter-spacing: 0em;
+}
+
+#drxoMsmZZERX .icon {
+    vertical-align: baseline;
+    font-size: 160%;
+    line-height: 1.2em;
+}
+
+#drxoMsmZZERX .icon-entry {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 1em;
+    width: 1em;
+    fill: #766363;
+    color: #766363;
+}
+
+#drxoMsmZZERX .tag {}
+
+#drxoMsmZZERX .description {
+    font-size: 150%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    font-style: italic;
+}
+
+#drxoMsmZZERX .price {
+    font-size: 150%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #c34b0c;
+}
+
+#drxoMsmZZERX .price-entry {}
+
+#drxoMsmZZERX .items {
+    height: 166px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    column-gap: 3em;
+}
+
+#drxoMsmZZERX .extras {
+    font-size: 130%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    color: #766363;
+    font-style: italic;
+}
+
+#drxoMsmZZERX .mo-name {
+    color: #c34b0c;
+    font-family: Cinzel;
+    font-size: 280%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: start;
+    padding: 0px 10px;
+    letter-spacing: 0em;
+}
+
+#drxoMsmZZERX .mo-notes {
+    color: #766363;
+    font-family: IM Fell DW Pica;
+    font-size: 150%;
+    text-align: start;
+    font-style: italic;
+    padding: 0px 10px;
+}
+
+#drxoMsmZZERX .mo-content {}
+
+/* style */
+#zPlrLvDulyRb .item {
+    margin-bottom: 1.7em;
+    line-height: 1.2em;
+    width: calc(100% - 0em);
+}
+
+#zPlrLvDulyRb .name {
+    font-size: 160%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    letter-spacing: 0em;
+}
+
+#zPlrLvDulyRb .icon {
+    vertical-align: baseline;
+    font-size: 160%;
+    line-height: 1.2em;
+}
+
+#zPlrLvDulyRb .icon-entry {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 1em;
+    width: 1em;
+    fill: #766363;
+    color: #766363;
+}
+
+#zPlrLvDulyRb .tag {}
+
+#zPlrLvDulyRb .description {
+    font-size: 150%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    font-style: italic;
+}
+
+#zPlrLvDulyRb .price {
+    font-size: 150%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #c34b0c;
+}
+
+#zPlrLvDulyRb .price-entry {}
+
+/*#zPlrLvDulyRb .items {*/
+/*    height: px;*/
+/*    display: ;*/
+/*    flex-direction: ;*/
+/*    flex-wrap: ;*/
+/*    column-gap: 0em;*/
+/*}*/
+
+#zPlrLvDulyRb .extras {
+    font-size: 130%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    color: #766363;
+    font-style: italic;
+}
+
+#zPlrLvDulyRb .mo-name {
+    color: #c34b0c;
+    font-family: Cinzel;
+    font-size: 280%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: start;
+    padding: 0px 10px;
+    letter-spacing: 0em;
+}
+
+#zPlrLvDulyRb .mo-notes {
+    color: #766363;
+    font-family: IM Fell DW Pica;
+    font-size: 150%;
+    text-align: start;
+    font-style: italic;
+    padding: 0px 10px;
+    margin-bottom: 0em;
+}
+
+#zPlrLvDulyRb .mo-content {}
+
+/* style */
+.svg-content {
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.page [data-component='text'] {
+    color: #777;
+}
+
+.page .txt {
+    line-height: 1;
+    width: 100%;
+    white-space: normal;
+    word-wrap: normal !important;
+    word-break: break-word !important;
+}
+
+.page .txt p {
+    margin: 0;
+    display: block;
+    white-space: pre-wrap;
+}
+
+.page .txt .case-up {
+    text-transform: uppercase;
+}
+
+.page .txt strong {
+    font-weight: bold;
+}
+
+.page .txt em {
+    font-style: italic;
+}
+
+.page .content .comp,
+.page .content .image,
+.page .content .qr,
+.page .content .group,
+.page .content .frame,
+.menu-object {
+    z-index: 1;
+}
+
+.page .txt {
+    line-height: 1;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+[data-component=text] {
+    text-decoration-skip-ink: none;
+    line-height: 1;
+    color: #777;
+}
+
+[data-component=text] .txt {
+    text-decoration: inherit;
+}
+
+.image,
+.svg-content {
+    display: flex;
+}
+
+.svg-content {
+    width: 100%;
+    height: 100%;
+}
+
+#canvas .page .txt {
+    line-height: 1;
+    width: 100%;
+    white-space: normal;
+}
+
+.menu-object .config {
+    display: none;
+}
+
+.menu-object .items {
+    padding: 1em;
+}
+
+.menu-object .item:last-child {
+    margin-bottom: 0 !important;
+}
+
+.menu-object .item .price-entry {
+    margin-right: .5em;
+}
+
+.menu-object .item .price-entry:last-child {
+    margin-right: 0 !important;
+}
+
+.menu-object .item .extras {
+    display: block;
+}
+
+.menu-object .item .extras:empty {
+    margin-top: 0 !important;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+[data-component="text"][data-text-wrapped="false"] #svgWrap {
+    visibility: hidden;
+}
+
+[data-component="text"][data-text-wrapped="true"] .ql-editor {
+    visibility: hidden;
+}
+
+/* style */
+#EubMXrQmBFCt .item {
+    margin-bottom: 1.7em;
+    line-height: 1.2em;
+    width: calc(50% - 1.5em);
+}
+
+#EubMXrQmBFCt .name {
+    font-size: 160%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    letter-spacing: 0em;
+}
+
+#EubMXrQmBFCt .icon {
+    vertical-align: baseline;
+    font-size: 160%;
+    line-height: 1.2em;
+}
+
+#EubMXrQmBFCt .icon-entry {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 1em;
+    width: 1em;
+    fill: #766363;
+    color: #766363;
+}
+
+#EubMXrQmBFCt .tag {}
+
+#EubMXrQmBFCt .description {
+    font-size: 150%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    font-style: italic;
+}
+
+#EubMXrQmBFCt .price {
+    font-size: 150%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #c34b0c;
+}
+
+#EubMXrQmBFCt .price-entry {}
+
+#EubMXrQmBFCt .items {
+    height: 511px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    column-gap: 3em;
+}
+
+#EubMXrQmBFCt .extras {
+    font-size: 130%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    color: #766363;
+    font-style: italic;
+}
+
+#EubMXrQmBFCt .mo-name {
+    color: #c34b0c;
+    font-family: Cinzel;
+    font-size: 280%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: start;
+    padding: 0px 10px;
+}
+
+#EubMXrQmBFCt .mo-notes {
+    color: #766363;
+    font-family: IM Fell DW Pica;
+    font-size: 150%;
+    text-align: start;
+    font-style: italic;
+    padding: 0px 10px;
+}
+
+#EubMXrQmBFCt .mo-content {}
+
+/* style */
+#GHTnMyhYSxNl .item {
+    margin-bottom: 1.7em;
+    line-height: 1.2em;
+}
+
+#GHTnMyhYSxNl .name {
+    font-size: 160%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    letter-spacing: 0em;
+}
+
+#GHTnMyhYSxNl .icon {
+    vertical-align: baseline;
+    font-size: 160%;
+    line-height: 1.2em;
+}
+
+#GHTnMyhYSxNl .icon-entry {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 1em;
+    width: 1em;
+    fill: #766363;
+    color: #766363;
+}
+
+#GHTnMyhYSxNl .tag {}
+
+#GHTnMyhYSxNl .description {
+    font-size: 150%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    font-style: italic;
+}
+
+#GHTnMyhYSxNl .price {
+    font-size: 150%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #c34b0c;
+}
+
+#GHTnMyhYSxNl .price-entry {}
+
+#GHTnMyhYSxNl .items {
+    height: px;
+}
+
+#GHTnMyhYSxNl .extras {
+    font-size: 130%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    color: #766363;
+    font-style: italic;
+}
+
+#GHTnMyhYSxNl .mo-name {
+    color: #c34b0c;
+    font-family: Cinzel;
+    font-size: 280%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: start;
+    padding: 0px 10px;
+}
+
+#GHTnMyhYSxNl .mo-notes {
+    color: #766363;
+    font-family: IM Fell DW Pica;
+    font-size: 150%;
+    text-align: start;
+    font-style: italic;
+    padding: 0px 10px;
+}
+
+#GHTnMyhYSxNl .mo-content {}
+
+/* style */
+#PVrjKMdpwZFp .item {
+    margin-bottom: 1.7em;
+    line-height: 1.2em;
+    width: calc(50% - 1.5em);
+}
+
+#PVrjKMdpwZFp .name {
+    font-size: 160%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    letter-spacing: 0em;
+}
+
+#PVrjKMdpwZFp .icon {
+    vertical-align: baseline;
+    font-size: 160%;
+    line-height: 1.2em;
+}
+
+#PVrjKMdpwZFp .icon-entry {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 1em;
+    width: 1em;
+    fill: #766363;
+    color: #766363;
+}
+
+#PVrjKMdpwZFp .tag {}
+
+#PVrjKMdpwZFp .description {
+    font-size: 150%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    font-style: italic;
+}
+
+#PVrjKMdpwZFp .price {
+    font-size: 150%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #c34b0c;
+}
+
+#PVrjKMdpwZFp .price-entry {}
+
+#PVrjKMdpwZFp .items {
+    height: 256px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    column-gap: 3em;
+}
+
+#PVrjKMdpwZFp .extras {
+    font-size: 130%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    color: #766363;
+    font-style: italic;
+}
+
+#PVrjKMdpwZFp .mo-name {
+    color: #c34b0c;
+    font-family: Cinzel;
+    font-size: 280%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: start;
+    padding: 0px 10px;
+}
+
+#PVrjKMdpwZFp .mo-notes {
+    color: #766363;
+    font-family: IM Fell DW Pica;
+    font-size: 150%;
+    text-align: start;
+    font-style: italic;
+    padding: 0px 10px;
+}
+
+#PVrjKMdpwZFp .mo-content {}
+/* style */
+
+#wTrdGNnYpgCj .item {
+    margin-bottom: 1.7em;
+    line-height: 1.2em;
+    width: calc(50% - 1.5em);
+}
+
+#wTrdGNnYpgCj .name {
+    font-size: 160%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    letter-spacing: 0em;
+}
+
+#wTrdGNnYpgCj .icon {
+    vertical-align: baseline;
+    font-size: 160%;
+    line-height: 1.2em;
+}
+
+#wTrdGNnYpgCj .icon-entry {
+    display: inline-block;
+    vertical-align: text-top;
+    height: 1em;
+    width: 1em;
+    fill: #766363;
+    color: #766363;
+}
+
+#wTrdGNnYpgCj .tag {}
+
+#wTrdGNnYpgCj .description {
+    font-size: 150%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #766363;
+    font-style: italic;
+}
+
+#wTrdGNnYpgCj .price {
+    font-size: 150%;
+    font-family: Cinzel;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 1.2em;
+    color: #c34b0c;
+}
+
+#wTrdGNnYpgCj .price-entry {}
+
+#wTrdGNnYpgCj .items {
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    column-gap: 3em;
+}
+
+#wTrdGNnYpgCj .extras {
+    font-size: 130%;
+    font-family: IM Fell DW Pica;
+    margin: 0 auto;
+    color: #766363;
+    font-style: italic;
+}
+
+#wTrdGNnYpgCj .mo-name {
+    color: #c34b0c;
+    font-family: Cinzel;
+    font-size: 280%;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: start;
+    padding: 0px 10px;
+}
+
+#wTrdGNnYpgCj .mo-notes {
+    color: #766363;
+    font-family: IM Fell DW Pica;
+    font-size: 150%;
+    text-align: start;
+    font-style: italic;
+    padding: 0px 10px;
+}
+
+#wTrdGNnYpgCj .mo-content {}

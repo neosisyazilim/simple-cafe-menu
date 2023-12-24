@@ -1,0 +1,260 @@
+[
+    {
+        "title": "CORBALAR",
+        "children": [
+            {
+                "title": "MERCİMEK ÇORBASI",
+                "description": "",
+                "price": 85
+            },
+            {
+                "title": "DOMATES ÇORBASI",
+                "description": "",
+                "price": 85
+            },
+            {
+                "title": "SEBZE ÇORBASI",
+                "description": "",
+                "price": 85
+            },
+            {
+                "title": "TAVUK ÇORBASI",
+                "description": "",
+                "price": 85
+            },
+            {
+                "title": "ISKEMBE ÇORBASI",
+                "description": "",
+                "price": 85
+            }
+        ]
+    },
+    {
+        "title": "EKSTRALAR",
+        "children": [
+            {
+                "title": "PATATES KIZARTMASI",
+                "description": "",
+                "price": 80
+            },
+            {
+                "title": "ACUKA",
+                "description": "",
+                "price": 40
+            },
+            {
+                "title": "PETEK BAL VE KAYMAK",
+                "description": "",
+                "price": 80
+            },
+            {
+                "title": "PEYNİR TABAĞI",
+                "description": "",
+                "price": 40
+            },
+            {
+                "title": "BEYAZ PEYNİR",
+                "description": "",
+                "price": 30
+            },
+            {
+                "title": "HAŞLANMIŞ YUMURTA",
+                "description": "",
+                "price": 20
+            }
+        ]
+    },
+    {
+        "title": "KAHVALTILAR",
+        "children": [
+            {
+                "title": "BENİM  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, yeşil ve siyah zeytin, domates, salatalık, roka, petek bal ve kaymak, süt reçeli, 2 bardak çay.",
+                "price": 300
+            },
+            {
+                "title": "SENIN  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, Maraş peynirli su böreği, yeşil ve siyah zeytin, süt reçeli, 2 bardak çay.",
+                "price": 500
+            },
+            {
+                "title": "ONUN  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, Maraş peynirli su böreği, yeşil ve siyah zeytin, süt reçeli, 2 bardak çay.",
+                "price": 250
+            },
+            {
+                "title": "BUNUN  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, Maraş peynirli su böreği, yeşil ve siyah zeytin, süt reçeli, 2 bardak çay.",
+                "price": 350
+            },
+            {
+                "title": "VAN  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, Maraş peynirli su böreği, yeşil ve siyah zeytin, süt reçeli, 2 bardak çay.",
+                "price": 450
+            },
+            {
+                "title": "BENİM  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, yeşil ve siyah zeytin, domates, salatalık, roka, petek bal ve kaymak, süt reçeli, 2 bardak çay.",
+                "price": 300
+            },
+            {
+                "title": "SENIN  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, Maraş peynirli su böreği, yeşil ve siyah zeytin, süt reçeli, 2 bardak çay.",
+                "price": 500
+            },
+            {
+                "title": "ONUN  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, Maraş peynirli su böreği, yeşil ve siyah zeytin, süt reçeli, 2 bardak çay.",
+                "price": 250
+            },
+            {
+                "title": "BITANEM  KAHVALTIM",
+                "description": "Maraş peyniri ve taze kaşar peyniri, Maraş peynirli su böreği, yeşil ve siyah zeytin, süt reçeli, 2 bardak çay.",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "title": "APERATIFLER",
+        "children": [
+            {
+                "title": "AYVALIK TOSTU",
+                "description": "",
+                "price": 150
+            },
+            {
+                "title": "KAŞARLI TOST",
+                "description": "",
+                "price": 150
+            },
+            {
+                "title": "PATATESLİ GÖZLEME",
+                "description": "",
+                "price": 150
+            },
+            {
+                "title": "KIYMALI GÖZLEME",
+                "description": "",
+                "price": 150
+            },
+            {
+                "title": "PEYNİRLİ GÖZLEME",
+                "description": "",
+                "price": 150
+            }
+        ]
+    },
+    {
+        "title": "SOGUK ICECEKLER",
+        "children": [
+            {
+                "title": "AYRAN",
+                "description": "KUTU",
+                "price": 45
+            },
+            {
+                "title": "SODA",
+                "description": "SADE,LIMON,ELMA",
+                "price": 55
+            },
+            {
+                "title": "MEYVE SULARI",
+                "description": "ŞEFTALİ,KAYISI,VİŞNE,PORTAKAL",
+                "price": 55
+            },
+            {
+                "title": "JUSE TEA",
+                "description": "ŞEFTALİ,LİMON",
+                "price": 55
+            },
+            {
+                "title": "GAZOZ",
+                "description": "SISE",
+                "price": 55
+            },
+            {
+                "title": "Çilekli Smoothie",
+                "price": 85
+            },
+            {
+                "title": "Karamelli Smoothie",
+                "price": 85
+            },
+            {
+                "title": "Elmali Smoothie",
+                "price": 85
+            },
+            {
+                "title": "Mango Smoothie",
+                "price": 85
+            },
+            {
+                "title": "Limonatalı Frozen",
+                "price": 75
+            },
+            {
+                "title": "Şeftali, Mangolu Frozen",
+                "price": 75
+            },
+            {
+                "title": "Cilekli Frozen",
+                "price": 75
+            },
+            {
+                "title": "Mangolu Frozen",
+                "price": 75
+            },
+            {
+                "title": "SU",
+                "description": "BARDAK",
+                "price": 10
+            },
+            {
+                "title": "SU",
+                "description": "0.5LT",
+                "price": 20
+            }
+        ]
+    },
+    {
+        "title": "BURGERLER",
+        "description": "Burger Özel Sos, Burger Köftesi, Karamelize Soğan, Yeşillik, Turşu, Domates, Patates Kızartması eşliğinde servis edilir.",
+        "children": [
+            {
+                "title": "Aile Menü",
+                "description": "Seçeceğiniz 4 Adet Friends Burger veya Tavuk Burger + Patates Kızartması (500 gr.) + Pepsi (1 L.)",
+                "price": 700
+            },
+            {
+                "title": "2’li Smoky Menü",
+                "description": "Seçeceğiniz 2 Adet Smoky Burger veya Tavuk Buffalo Burger + Patates Kızartması (300 gr.) + Pepsi (1 L.)",
+                "price": 420
+            },
+            {
+                "title": "2’li Buffalo Menü",
+                "description": "Seçeceğiniz 2 Adet Buffalo Burger veya Tavuk Buffalo Burger + Patates Kızartması (300 gr.) + Pepsi (1 L.)",
+                "price": 440
+            }
+        ]
+    },
+    {
+        "title": "SANDVICLER",
+        "children": [
+            {
+                "title": "BBQ Tavuk Sandviç",
+                "description": "But bonfile tavuk, karamelize soğan, mantar, chedar, mozerella, barbekü sos, esmer rustik ekmek,",
+                "price": 145
+            },
+            {
+                "title": "Ballı Acılı Tavuk Sandviç",
+                "description": "But bonfile, karamelize soğan, köy biberi, chedar, mozerella, ballı acılı sos, rustik esmer ekmek.",
+                "price": 145
+            },
+            {
+                "title": "Kavurma Sandviç",
+                "description": "Kavurma, mantar, chedar, barbekü sos, rustik esmer ekmek.",
+                "price": 215
+            }
+        ]
+    }
+]
